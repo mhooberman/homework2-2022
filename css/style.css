@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, "Times New Roman";
+    font-family: Verdana, "Times New Roman" !important;
     background: #000;
     color: #FFFFFF;
     margin: 25px 25px 0px 25px;
@@ -77,7 +77,7 @@ div {
 }
 
 .green {
-    background: #00EB00;
+    background: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid #FFFFFF;
@@ -96,7 +96,8 @@ footer {
 }
 
 footer,
-p {
+p{
+    font-size: 20px;
     text-align: center;
     padding-top: 10px;
     padding-right: 10px;
