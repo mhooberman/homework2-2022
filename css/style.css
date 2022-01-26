@@ -47,7 +47,7 @@ div {
     background: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-width: 3px solid #FFFFFF;
+    border-width: 0 0 3px 10px;
     border-style: solid;
 }
 
